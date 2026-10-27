@@ -1,2 +1,2 @@
-[![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=t-shun9999)](https://github.com/evirunurm/github-stats)
-[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=t-shun9999&peng=false)](https://github.com/evirunurm/github-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=t-shun9999&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-shun9999&layout=compact)
